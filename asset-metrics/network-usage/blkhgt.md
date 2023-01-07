@@ -25,7 +25,7 @@ The count of blocks from the genesis (first) block to the last block of that int
 
 ## Asset-Specific Details
 
-* Every blockchain will have a Block Height measurement as it's a fundamental aspect of the the distributed ledger technology.
+* Every blockchain will have a Block Height measurement as it's a fundamental aspect of the distributed ledger technology.
 
 ## Examples
 
