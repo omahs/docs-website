@@ -8,7 +8,7 @@ That said, we do offer full market data coverage for Coinbase through our Market
 
 ### **Do your aggregate exchange deposit/withdrawal and supply (on-chain flows) metrics include any Coinbase flows?**
 
-Our aggregate on-chain exchange metrics (eg. FlowOutExInclUSD or FlowOutExInclUSD) do include some Coinbase cold storage addresses. However, relative to the inputs from other constituent exchanges the the impact on the total aggregate flows is minimal.&#x20;
+Our aggregate on-chain exchange metrics (eg. FlowOutExInclUSD or FlowOutExInclUSD) do include some Coinbase cold storage addresses. However, relative to the inputs from other constituent exchanges the impact on the total aggregate flows is minimal.&#x20;
 
 ### **Why is your Current Supply (SplyCur) of XLM different from the supply reported on Stellar’s Dashboard? (**[**https://dashboard.stellar.org**](https://dashboard.stellar.org)**)**
 
